@@ -64,21 +64,21 @@ O sistema permite **criar usuários, realizar login e simular operações bancá
 ## 🗂️ Estrutura do Projeto
 
 📦 Desafio-Banco-Digital
-┣ 📂 src
-┃ ┣ 📜 Main.java
-┃ ┣ 📜 Banco.java
-┃ ┣ 📜 Cliente.java
-┃ ┣ 📜 Conta.java
-┃ ┣ 📜 ContaCorrente.java
-┃ ┣ 📜 ContaPoupanca.java
-┃ ┗ 📜 Operacoes.java
-┣ 📜 README.md
-┗ 📜 .gitignore
+#┣ 📂 src
+#┃ ┣ 📜 Main.java
+#┃ ┣ 📜 Banco.java
+#┃ ┣ 📜 Cliente.java
+#┃ ┣ 📜 Conta.java
+#┃ ┣ 📜 ContaCorrente.java
+#┃ ┣ 📜 ContaPoupanca.java
+#┃ ┗ 📜 Operacoes.java
+#┣ 📜 README.md
+#┗ 📜 .gitignore
 
 ## Autor
-André Lucas Vieira Silva Dos Anjos
-💼 Estudante de Ciência da Computação | Desenvolvedor Backend em formação
-📍 Osasco - SP
+# André Lucas Vieira Silva Dos Anjos
+# 💼 Estudante de Ciência da Computação | Desenvolvedor Backend em formação
+#📍 Osasco - SP
 
 📧 andrel7dosanjos@gmail.com
 🔗 GitHub
